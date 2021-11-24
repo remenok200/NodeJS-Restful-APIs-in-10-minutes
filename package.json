@@ -1,0 +1,27 @@
+{
+  "name": "d14_15_todolist_api",
+  "version": "1.0.0",
+  "description": "practice, task 1, day 14 and 15",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrrrooooommmmaaaa/todoListAPI.git"
+  },
+  "author": "some black people",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrrrooooommmmaaaa/todoListAPI/issues"
+  },
+  "homepage": "https://github.com/rrrrooooommmmaaaa/todoListAPI#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13"
+  }
+}
